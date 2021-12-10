@@ -7,7 +7,7 @@ import Pagina404 from './paginas/Pagina404'
 import Cabecalho from './components/Cabecalho'
 import Post from './paginas/Post'
 import Categoria from './paginas/Categoria'
-import Produtos from './paginas/Produtos'
+
 
 function App() {
 
